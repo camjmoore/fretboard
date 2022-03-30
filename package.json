@@ -1,0 +1,24 @@
+{
+  "name": "fretboard",
+  "version": "1.0.0",
+  "description": "fretboard trainer and note visualizer",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octanym/fretboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octanym/fretboard/issues"
+  },
+  "homepage": "https://github.com/octanym/fretboard#readme",
+  "dependencies": {
+    "parcel": "^2.4.0"
+  }
+}
